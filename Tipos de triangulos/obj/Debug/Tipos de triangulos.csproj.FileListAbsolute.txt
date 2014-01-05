@@ -1,0 +1,6 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Tipos de triangulos\Tipos de triangulos\bin\Debug\Tipos de triangulos.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Tipos de triangulos\Tipos de triangulos\bin\Debug\Tipos de triangulos.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Tipos de triangulos\Tipos de triangulos\bin\Debug\Tipos de triangulos.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Tipos de triangulos\Tipos de triangulos\obj\Debug\Tipos de triangulos.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Tipos de triangulos\Tipos de triangulos\obj\Debug\Tipos de triangulos.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Console\Tipos de triangulos\Tipos de triangulos\obj\Debug\Tipos de triangulos.pdb
